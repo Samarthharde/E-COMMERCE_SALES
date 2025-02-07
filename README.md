@@ -82,4 +82,4 @@ Additional Insights and Recommendations
 - Explore new or trending product categories based on customer preferences and buying patterns.
 
 # 📊 DASHBOARD
-![](Dashboard.png)
+![](DashBoard.png)
