@@ -8,7 +8,7 @@
 This dashboard provides a comprehensive view of the sales performance across the e-commerce platform, offering actionable insights for business growth. It serves as a vital tool for team discussions, aimed at enhancing revenue, optimizing operations, and improving the customer experience
 
 # ⚙ TOOLS USED
-[<img src="Excel.jpg" alt="Excel Logo" width="70" height="70">](Excel.jpg) &nbsp;
+[<img src="EXCEL.png" alt="Excel Logo" width="70" height="70">](EXCEL.png) &nbsp;
 
  Microsoft Excel
 
